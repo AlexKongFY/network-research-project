@@ -1,6 +1,6 @@
 # network-research-project
 
-<img width="301" alt="image" src="https://github.com/AlexKongFY/network-research-project/assets/93807661/ece38a77-7be5-491c-80ea-a209f931f976">
+<img width="261" alt="image" src="https://github.com/AlexKongFY/network-research-project/assets/93807661/797ddf23-782d-441d-8c0c-75d9714f631a">
 
 Created an automated solution for anonymous access to remote machines via onion routing networks. Conducted target reconnaissance and gathered system information, with network traffic monitoring through a sniffer application. Employed technologies such as nipe, Torify, Whois, Nmap, Wireshark, SSHpass, TCPdump along with Bash scripting. It also performs software checks for the needed remote control script and self-installed the necessary components.
 
@@ -22,6 +22,3 @@ c) Nmap search for available host to SSH service logon
 
 ![image](https://github.com/AlexKongFY/network-research-project/assets/93807661/e394b99e-335a-4652-bf28-57b9d213f629)
 
-d) final output of the script
-
-![image](https://github.com/AlexKongFY/network-research-project/assets/93807661/0510d907-03a8-4837-b615-83dcf15a232e)
