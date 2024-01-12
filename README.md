@@ -1,4 +1,4 @@
-# network-research-project
+Network Research project for scanning live hosts 
 
 <img width="261" alt="image" src="https://github.com/AlexKongFY/network-research-project/assets/93807661/797ddf23-782d-441d-8c0c-75d9714f631a">
 
